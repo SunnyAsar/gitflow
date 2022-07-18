@@ -1,0 +1,5 @@
+- push
+- pull
+- conflict resolution
+- merge
+- pull request
